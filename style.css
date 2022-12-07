@@ -1,0 +1,23 @@
+h1{
+  font-family: 'Zen Dots', cursive;
+  color:red;
+  text-align: center;
+  font-size: 100px;
+}
+.container{
+  margin: auto;
+  text-align: center;
+}
+body{
+  background-color: black;
+
+}
+.player{
+  color: red;
+  display: inline-block;
+  font-size: 30px;
+  text-align: center;
+  padding-left: 7%;
+  padding-right: 7%;
+
+}
